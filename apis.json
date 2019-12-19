@@ -1,0 +1,65 @@
+{
+    "name": "Altmetric",
+    "description": "<p>Altmetric tracks mentions of scholarly works on social media sites, scholarly bookmarking services and in science news outlets. It handles all of the heavy lifting involved in extracting, disambiguating and collating this information so that you can focus on your core product. &nbsp;The Altmetric API gives you programmatic access the data about articles &amp; datasets collected by Altmetric.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/api_header_logo.png",
+    "tags": [
+        "academic",
+        "analysis",
+        "api provider",
+        "api united kingdom",
+        "articles",
+        "have api",
+        "no api definition"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/altmetric\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Altmetric",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/api_header_logo.png",
+            "humanURL": "http:\/\/www.altmetric.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/altmetric-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.altmetric.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.altmetric.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/altmetric.com\/blog\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/altmetric"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/altmetric"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/altmetric"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/api.altmetric.com\/"
+        }
+    ]
+}
